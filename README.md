@@ -1,5 +1,5 @@
 # Play Geometry Dash Online with NEW Unblocked Links
-![Logo](https://playslope.pages.dev/assets/images/blockposttextlogo.png)
+![Logo](https://playgeodash.pages.dev/assets/images/blockposttextlogo.png)
 
 
 Geometry Dash is a fast-paced rhythm-based platformer where players navigate a cube through a series of increasingly challenging levels filled with obstacles and hazards, all set to upbeat electronic music.
