@@ -39,4 +39,3 @@ We rely on ads to help keep our servers running. Your clicks are always apprecia
 
 ## Screenshots
 
-![App Screenshot](https://playslope.pages.dev/assets/images/1.jpg)
