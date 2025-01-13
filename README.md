@@ -37,9 +37,4 @@ We rely on ads to help keep our servers running. Your clicks are always apprecia
 
 - [@bigfoot9999](https://www.github.com/bigfoot9999)
 
-## Videos
-      
-<a href="https://www.youtube.com/watch?v=L0z7fFzi6UQ&ab_channel=Bigfoot%27sGameShack">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/L0z7fFzi6UQ?si=iWKatR-FiUe0QP9F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</a>
 
